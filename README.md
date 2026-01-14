@@ -1,7 +1,7 @@
 # Automated Category Assignment for Excel Data for Ancient Pottery Research.
 
 ## Overview
-This project implements a Python-based solution to automatically populate the **Categories** column in an Excel file by analyzing descriptive text in the **Decoration** column. The script applies rule-based keyword matching derived from a reference Word document to ensure consistent and accurate category assignment.
+This project implements a Python-based solution to automatically populate the **Categories** column in an Excel (100,000 rows) file by analyzing descriptive text in the **Decoration** column. The script applies rule-based keyword matching derived from a reference Word document to ensure consistent and accurate category assignment.
 
 ## Data Structure
 - **Input (Excel File):**
