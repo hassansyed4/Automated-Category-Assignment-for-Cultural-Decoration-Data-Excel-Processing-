@@ -83,10 +83,11 @@ Excel File → Cloud Storage → Python ETL → BigQuery → Looker Studio
 ## 📊 Reports
 
 [![Top Thematic Groups](./top_thematic_groups.png)](./Top_thematic_groups.pdf)
----
-[![Most Common Decoration Keywords](./most common decoration_keywords.png)](./most common decoration_keywords.pdf)
----
-[![Most Common Categories](./most common categories.png)](./most common categories.pdf)
+
+[![Most Common Decoration Keywords](./most_common_decoration_keywords.png)](./most common decoration_keywords.pdf)
+
+[![Most Common Categories](./most_common_categories.png)](./most common categories.pdf)
+
 ---
 ## 🚀 Business Impact
 
