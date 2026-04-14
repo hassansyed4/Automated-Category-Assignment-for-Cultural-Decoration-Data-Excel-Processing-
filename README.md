@@ -82,16 +82,16 @@ Excel File → Cloud Storage → Python ETL → BigQuery → Looker Studio
 
 ## 📊 Reports
 
-[![Top Thematic Groups](./top_thematic_groups.png)]
+![Top Thematic Groups](./top_thematic_groups.png)
 
-[![Most Common Decoration Keywords](./most_common_decoration_keywords.png)]
+![Most Common Decoration Keywords](./most_common_decoration_keywords.png)
 
-[![Most Common Categories](./most_common_categories.png)]
+![Most Common Categories](./most_common_categories.png)
 
 ---
 ## 🚀 Business Impact
 
-- Reduced manual effort by **~90–95%**  
+- Reduced manual effort by **~70–75%**  
 - Improved data consistency and accuracy  
 - Enabled scalable processing for large datasets  
 - Faster report generation and decision-making  
