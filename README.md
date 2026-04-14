@@ -80,6 +80,9 @@ Excel File → Cloud Storage → Python ETL → BigQuery → Looker Studio
 - Structured dataset in BigQuery for analysis  
 - Interactive reports and dashboards in Looker Studio  
 
+## 📊 Reports
+
+[![Top Thematic Groups](./top_thematic_groups.png)](./Top_thematic_groups.pdf)
 ---
 
 ## 🚀 Business Impact
