@@ -84,7 +84,10 @@ Excel File → Cloud Storage → Python ETL → BigQuery → Looker Studio
 
 [![Top Thematic Groups](./top_thematic_groups.png)](./Top_thematic_groups.pdf)
 ---
-
+[![Most Common Decoration Keywords](./most common decoration_keywords.png)](./most common decoration_keywords.pdf)
+---
+[![Most Common Categories](./most common categories.png)](./most common categories.pdf)
+---
 ## 🚀 Business Impact
 
 - Reduced manual effort by **~90–95%**  
